@@ -1,0 +1,10 @@
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\bin\Release\APKTools.exe
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\bin\Release\APKTools.pdb
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\bin\Release\APKTools.xml
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\bin\Release\MetroFramework.dll
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.Main.resources
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.Resources.resources
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.vbproj.GenerateResource.Cache
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.exe
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.xml
+C:\Users\SandPox\Documents\Visual Studio 2013\Projects\APKTools\APKTools\obj\Release\APKTools.pdb
